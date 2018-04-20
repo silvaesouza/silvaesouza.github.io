@@ -1,6 +1,6 @@
 = Coisas interessantes vistas no mês de Abril 2018
 Adriano P. S. Souza
-201-04-20
+2018-04-20
 :jbake-type: post
 :jbake-status: published
 :jbake-tags: blog, oracle, jbake
