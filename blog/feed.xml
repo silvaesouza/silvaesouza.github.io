@@ -6,8 +6,8 @@
     <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Ter, 17 abr 2018 23:09:01 -0300</pubDate>
-    <lastBuildDate>Ter, 17 abr 2018 23:09:01 -0300</lastBuildDate>
+    <pubDate>Sex, 20 abr 2018 08:59:18 -0300</pubDate>
+    <lastBuildDate>Sex, 20 abr 2018 08:59:18 -0300</lastBuildDate>
 
     <item>
       <title>Fourth Post</title>
@@ -87,6 +87,25 @@ public class Oven {
 &lt;/code&gt;
 &lt;/pre&gt; 
 &lt;p&gt;In consequat imperdiet nunc quis bibendum. Nulla semper, erat quis ornare tristique, lectus massa posuere libero, ut vehicula lectus nunc ut lorem. Aliquam erat volutpat.&lt;/p&gt;
+	</description>
+    </item>
+    <item>
+      <title>Coisas interessantes vistas no mês de Abril 2018</title>
+      <link>http://jbake.org/blog/2018/04/primeiro-teste.html</link>
+      <pubDate>Seg, 20 abr 0201 00:00:00 -0300</pubDate>
+      <guid isPermaLink="false">blog/2018/04/primeiro-teste.html</guid>
+      	<description>
+	&lt;div class=&quot;sect1&quot;&gt; 
+ &lt;h2 id=&quot;oracle&quot;&gt;Oracle&lt;/h2&gt; 
+ &lt;div class=&quot;sectionbody&quot;&gt; 
+  &lt;div class=&quot;listingblock&quot;&gt; 
+   &lt;div class=&quot;content&quot;&gt; 
+    &lt;pre class=&quot;prettyprint highlight&quot;&gt;&lt;code class=&quot;language-sql&quot; data-lang=&quot;sql&quot;&gt;-- exibir código de uma view
+select DBMS_METADATA.GET_DDL (&apos;VIEW&apos;,&apos;view_name&apos;,&apos;owner&apos;) from dual;&lt;/code&gt;&lt;/pre&gt; 
+   &lt;/div&gt; 
+  &lt;/div&gt; 
+ &lt;/div&gt; 
+&lt;/div&gt;
 	</description>
     </item>
 

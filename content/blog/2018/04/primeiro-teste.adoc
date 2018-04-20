@@ -1,0 +1,13 @@
+= Coisas interessantes vistas no mês de Abril 2018
+Adriano P. S. Souza
+201-04-20
+:jbake-type: post
+:jbake-status: published
+:jbake-tags: blog, oracle, jbake
+:idprefix:
+
+== Oracle
+```sql
+-- exibir código de uma view
+select DBMS_METADATA.GET_DDL ('VIEW','view_name','owner') from dual;
+```
