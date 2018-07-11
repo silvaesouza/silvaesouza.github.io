@@ -1,10 +1,24 @@
 = Coisas interessantes vistas no mês de Abril 2018
 Adriano P. S. Souza
-2018-04-20
+2018-04-23
 :jbake-type: post
 :jbake-status: published
-:jbake-tags: blog, oracle, jbake
+:jbake-tags: blog, oracle, jbake, linux
 :idprefix:
+
+== Jbake
+
+O inicio
+
+== Linux
+
+synergy software para sincronizar mouse e teclado entres dois computadores
+
+hold para evitar que update atualize software synergy
+
+script watch filtrando por extensão de arquivo
+
+gvfs x nfs
 
 == Oracle
 ```sql
